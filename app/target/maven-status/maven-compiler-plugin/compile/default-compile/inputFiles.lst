@@ -1,0 +1,11 @@
+/workspace/java-spring-games/app/src/main/java/application/WebApplication.java
+/workspace/java-spring-games/app/src/main/java/application/controller/IndexController.java
+/workspace/java-spring-games/app/src/main/java/application/controller/CategoriaController.java
+/workspace/java-spring-games/app/src/main/java/application/model/Jogo.java
+/workspace/java-spring-games/app/src/main/java/application/repository/JogoRepository.java
+/workspace/java-spring-games/app/src/main/java/application/controller/PlataformaController.java
+/workspace/java-spring-games/app/src/main/java/application/repository/PlataformaRepository.java
+/workspace/java-spring-games/app/src/main/java/application/repository/CategoriaRepository.java
+/workspace/java-spring-games/app/src/main/java/application/model/Plataforma.java
+/workspace/java-spring-games/app/src/main/java/application/controller/JogoController.java
+/workspace/java-spring-games/app/src/main/java/application/model/Categoria.java
